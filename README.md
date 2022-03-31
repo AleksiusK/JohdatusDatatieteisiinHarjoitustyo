@@ -1,1 +1,1 @@
-# JohdatusDatatieteisiinHarjoitustyo
+# Johdatus datatieteisiin- kurssin harjoitustyö.

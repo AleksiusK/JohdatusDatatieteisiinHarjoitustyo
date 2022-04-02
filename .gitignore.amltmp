@@ -1,5 +1,5 @@
 .amlignore
-.amltmp
+*.amltmp
 .ipynb_aml_checkpoints
 secret.txt
 secret.txt.amltmp

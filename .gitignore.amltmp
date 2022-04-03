@@ -1,7 +1,0 @@
-secret.txt
-secret.txt.amltmp
-
-# Azure ML
-.ipynb_aml_checkpoints/
-.amlignore
-*.amltmp

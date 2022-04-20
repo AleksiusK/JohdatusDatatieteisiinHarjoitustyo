@@ -3,7 +3,7 @@ aleksius.kurkela@tuni.fi
 274550
 ***
 
-Creating a good, thematic playlist in spotify has always been difficult for me. The playlists I make end up having songs that don't fit, and ruin a perfectly good workout or study session as I have to skip songs that I don't want to hear. This is why I decided to see if building a ML model, that recommends types of songs to an existing playlists would be possible to make.
+Creating a good, thematic playlist in spotify has always been difficult for me. The playlists I make end up having songs that don't fit, and ruin a perfectly good workout or study session as I have to skip songs that I don't want to hear. This is why I decided to see if building a ML model, that checks if a song would be suitable for my playlist would be fun to make.
 
 The project is built around four main sections:
 1.  Gathering the data from Spotify using Spotipy, a python library that allows you to use Spotifys' Web api.

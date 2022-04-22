@@ -5,6 +5,3 @@ secret.txt.amltmp
 .ipynb_aml_checkpoints/
 .amlignore
 *.amltmp
-
-#Data gathered
-Datasets/
